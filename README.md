@@ -1,6 +1,6 @@
 # webgis-playground
 
-This is a repo for playing around with web gis technology
+This is a repo for me playing around with web gis technology
 
 [Leaflet](https://leafletjs.com) - an open-source JavaScript library for mobile-friendly interactive maps
 
